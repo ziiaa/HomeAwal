@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="16879862_trv9_44up_210408.jpg" />
+    <None Remove="Group 59.png" />
+    <None Remove="Group 64.png" />
+    <None Remove="Group 69.png" />
+    <None Remove="Group 71.png" />
+    <None Remove="Group 72.png" />
+    <None Remove="Group 81.png" />
+    <None Remove="image-removebg-preview.png" />
+    <None Remove="Pallete.png" />
+    <None Remove="Panah.png" />
+    <None Remove="Untitled design %282%29 1.png" />
+    <None Remove="Untitled design %283%29 1.png" />
+    <None Remove="Untitled design %283%29.png" />
+    <None Remove="Untitled design %2848%29 1.png" />
+    <None Remove="Untitled design %2848%29.png" />
+    <None Remove="Untitled design %2849%29 1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="16879862_trv9_44up_210408.jpg" />
+    <Resource Include="Group 59.png" />
+    <Resource Include="Group 64.png" />
+    <Resource Include="Group 69.png" />
+    <Resource Include="Group 71.png" />
+    <Resource Include="Group 72.png" />
+    <Resource Include="Group 81.png" />
+    <Resource Include="image-removebg-preview.png" />
+    <Resource Include="Pallete.png" />
+    <Resource Include="Panah.png" />
+    <Resource Include="Untitled design (2) 1.png" />
+    <Resource Include="Untitled design (3) 1.png" />
+    <Resource Include="Untitled design (3).png" />
+    <Resource Include="Untitled design (48) 1.png" />
+    <Resource Include="Untitled design (48).png" />
+    <Resource Include="Untitled design (49) 1.png" />
+  </ItemGroup>
+
+</Project>
